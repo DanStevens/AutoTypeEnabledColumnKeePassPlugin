@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Auto-Type Enabled Column")]
-[assembly: AssemblyDescription("Adds a column to KeePass that indicates whether or not Auto-Type is enable for given entry")]
+[assembly: AssemblyDescription("A plugin for KeePass that adds a column to the main window that indicates whether or not Auto-Type is enable for given entry")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Dan Stevens")]
 [assembly: AssemblyProduct("KeePass Plugin")]
